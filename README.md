@@ -17,9 +17,10 @@
         <h1>The Kardeshev Scale</h1>
         <p>Note: This article is going to be epic!<br>
         <br>
-        The Kardeshev Scale might seem mysterious, because the name is so hard to pronounce (okay, maybe not so hard,)<br>
+        The Kardeshev Scale might seem mysterious, because the name is so hard to pronounce <br>
+        (okay, maybe not so hard,)<br>
          but The Kardeshev Scale just measures civilizations by their energy use. Now you have the basic idea. For more info, check back in less then one week. :-)</p>
 
-        <h4>Created By thamankotla@gmail.com and octaviusaszeto@gmail.com</h4>
+        <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
     </body>
 </html>
