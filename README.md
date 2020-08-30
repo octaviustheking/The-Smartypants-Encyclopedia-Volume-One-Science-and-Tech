@@ -13,7 +13,7 @@
         Teaching you about physics while reading bad puns. ;-)<br>
         <br>
         Actually, you know what? It would be much easier for you to read We Have No Idea than for me to explain all of the topics to you. You can find it in the Hampton Park Libary. You can search it up. It is almost always available.</p>
-        <a href="https://www.amazon.com/We-Have-No-Idea-Universe/dp/0735211515">Click here</a><p> to buy a copy.<br><a href="https://catalog.forsythpl.org/polaris/search/title.aspx?ctx=1.1033.0.0.1&pos=1">Click here</a> to borrow a copy.</p>
+        <p><a href="https://www.amazon.com/We-Have-No-Idea-Universe/dp/0735211515">Click here</a> to buy a copy.<br><a href="https://catalog.forsythpl.org/polaris/search/title.aspx?ctx=1.1033.0.0.1&pos=1">Click here</a> to borrow a copy.</p>
         <h2>The Domains of Life</h2>
         <p>Scientists say that in order to be considered alive, something must be able to the following 4 things.</p>
         <ul>
