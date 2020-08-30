@@ -12,7 +12,22 @@
         <p>Note: To understand this section, read We Have No Idea, by Jorge Cham and Daniel Whiteson<br>
         Teaching you about physics while reading bad puns. ;-)<br>
         <br>
-        Actually, you know what? It would be much easier for you to read We Have No Idea than for me to explain all of the topics to you. You can find it in the Hampton Park Libary. You can search it up. It is almost always available. This is the end of this article. 
-        <h3>The End of the Article</h3>
+        Actually, you know what? It would be much easier for you to read We Have No Idea than for me to explain all of the topics to you. You can find it in the Hampton Park Libary. You can search it up. It is almost always available.
+        <h2>The Domains of Life</h2>
+        <p>Scientists say that in order to be considered alive, something must be able to the following 4 things.</p>
+        <ul>
+            <li>Reproduce</li>
+            <li>Grow in size</li>
+            <li>Give off waste</li>
+            <li>Respond to external stimuli</li>
+        </ul>
+        <p>That's what something must be able to do in order to be considered alive.</p>
+        <p>Now, you might be wondering what the three domains of life are. The 3 domains of life are: <br>
+        1. Domain Bacteria<br>
+        2. Domain Archaea<br>
+        3. Domain Eukarya<br>
+        Sadly, I won't tell you more about each of the domains. Most of these facts are just to impress your friends, or make you sound smart at a party. <br>
+        But there are thousands of books you can read to learn more, and thousands of websites for you to read.</p>
+    
         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
