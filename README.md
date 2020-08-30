@@ -14,6 +14,5 @@
         <br>
         Actually, you know what? It would be much easier for you to read We Have No Idea than for me to explain all of the topics to you. You can find it in the Hampton Park Libary. You can search it up. It is almost always available. This is the end of this article. 
         <h3>The End of the Article</h3>
-        </p>
-        <p> 
+        <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
