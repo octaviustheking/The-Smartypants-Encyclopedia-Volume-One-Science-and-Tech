@@ -30,6 +30,18 @@
         </ol>
         <p>Sadly, I won't tell you more about each of the domains. Most of these facts are just to impress your friends, or make you sound smart at a party. <br>
         But there are thousands of books you can read to learn more, and thousands of websites for you to read.</p>
+        <h2>Muscles</h2>
+        <p>Muscles help you move around. Without them, you wouldn't get anywhere! But what are they?<br> Can the stain your clothes?<br> How many are there in your body?                 <br>These are all normal questions. (Except one.) There are 650 of them in your body. You use all of them to:</p>
+        <ul>
+            <li>Skip</li>
+            <li>Blink</li>
+            <li>Sit</li>
+            <li>Stand</li>
+            <li>Walk</li>
+            <li>Say "Yadda Yadda Yadda"</li>
+            <li>etc.</li>
+        </ul>
+        <p>The point is, you need muscles in order to survive. For some fun facts, check out Volume Seven - Random Facts.</p>
     
         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
