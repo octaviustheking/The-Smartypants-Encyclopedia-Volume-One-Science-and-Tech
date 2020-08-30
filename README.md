@@ -22,11 +22,13 @@
             <li>Respond to external stimuli</li>
         </ul>
         <p>That's what something must be able to do in order to be considered alive.</p>
-        <p>Now, you might be wondering what the three domains of life are. The 3 domains of life are: <br>
-        1. Domain Bacteria<br>
-        2. Domain Archaea<br>
-        3. Domain Eukarya<br>
-        Sadly, I won't tell you more about each of the domains. Most of these facts are just to impress your friends, or make you sound smart at a party. <br>
+        <p>Now, you might be wondering what the three domains of life are. The 3 domains of life are: </p>
+        <ol>
+            <li>Domain Bacteria</li>
+            <li>Domain Archaea</li>
+            <li>Domain Eukarya</li>
+        </ol>
+        <p>Sadly, I won't tell you more about each of the domains. Most of these facts are just to impress your friends, or make you sound smart at a party. <br>
         But there are thousands of books you can read to learn more, and thousands of websites for you to read.</p>
     
         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
