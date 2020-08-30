@@ -46,7 +46,7 @@
             <li>Say "Yadda Yadda Yadda"</li>
             <li>etc.</li>
         </ul>
-        <p>The point is, you need muscles in order to survive. For some fun facts, check out Volume Seven - Random Facts.</p>
+        <p>The point is, you need muscles in order to survive. For some fun facts, check out Volume Seven - Random Facts. If you want to learn more, <a href="https://en.wikipedia.org/wiki/Muscle">click here.</a></p>
     
         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
