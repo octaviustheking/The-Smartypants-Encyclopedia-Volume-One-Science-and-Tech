@@ -29,7 +29,7 @@
             <li>Domain Eukarya</li>
         </ol>
         <p>Sadly, I won't tell you more about each of the domains. Most of these facts are just to impress your friends, or make you sound smart at a party. <br>
-        But there are thousands of books you can read to learn more, and thousands of websites for you to read, such as <a href="https://en.wikipedia.org/wiki/Domain_(biology)">this one</a></p>
+        <a href="https://en.wikipedia.org/wiki/Domain_(biology)">Click here</a> to learn more.</p>
         <h2>Muscles</h2>
         <p>Muscles help you move around. Without them, you wouldn't get anywhere!                                                                                                         <ul>
             <li>How many are there?</li>
