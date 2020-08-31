@@ -48,6 +48,6 @@
             <li>etc.</li>
         </ul>
         <p>The point is, you need muscles in order to survive. For some fun facts, check out Volume Seven - Random Facts. <br>If you want to learn more, <a href="https://en.wikipedia.org/wiki/Muscle">click here</a></p>
-    <a href="https://forms.gle/99KjVR6eP4YMZfE78">Click Here</a><p> for a quiz that goes along with this encyclopedia!</p>
+    <p><a href="https://forms.gle/99KjVR6eP4YMZfE78">Click Here</a> for a quiz that goes along with this encyclopedia!</p>
         <a href="https://octaviustheking.github.io/The-Smartypants-co.-Home-Website/">Our Home Website!</a> 
         <h4>Created By octaviusaszeto@gmail.com and thamankotla@gmail.com</h4>
