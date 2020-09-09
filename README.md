@@ -51,7 +51,6 @@
     <h1>Tech</h1>
     <h2>Real Life Transformers</h2>
     <p>The J-deite RIDE robot is modeled after the Transformer toys. It can shift from a car, to a robot, and back again. It can make the change in one minute. The car can seat two. It weighs as much as a rhino and stands as tall as an elephant. When it is in its car form, it can go up to 37mph. Hit a button on a remote control and it turns into an robot. When it is in its robot form, it can walk 328 feet an hour. The J-deite RIDE was designed by a group of Japanese engineers.</p>
-    <iframe src="https://www.youtube.com/watch?time_continue=1&v=B2uMwnf4nfk&feature=emb_logo" width="640" height="480"></iframe>
     <p><a href="https://www.sciencealert.com/japanese-scientists-have-actually-made-a-working-real-life-transformers-car-j-deite-ride">Click Here</a> to learn more.</p>
     <h2>The Oombrella (Not a spelling mistake)</h2>
     <p>The Oombrella is unforgettable. I can explain all of it in one article, or I can just send you a website with a video. I choose sending you a website. <a href="https://www.kickstarter.com/projects/wezzoo/oombrella-unforgettable-umbrella">Click Here</a> for the website.</p>
