@@ -10,11 +10,7 @@
         <h1>Science</h1>
         <h2>Physics</h2>
         <p>Article by Octavius Szeto<br>Book by Jorge Cham and Daniel Whiteson</p>
-        <p>Note: To understand this section, read We Have No Idea, by Jorge Cham and Daniel Whiteson<br>
-        Teaching you about physics while reading bad puns. ;-)<br>
-        <br>
-        Actually, you know what? It would be much easier for you to read We Have No Idea than for me to explain all of the topics to you. You can find it in the Hampton Park Libary. You can search it up. It is almost always available.</p>
-        <p><a href="https://www.amazon.com/We-Have-No-Idea-Universe/dp/0735211515">Click Here</a> to buy a copy.<a href="https://catalog.forsythpl.org/polaris/search/title.aspx?ctx=1.1033.0.0.1&pos=1">Click Here</a> to borrow a copy.</p>
+        <p>Today's physics lesson is: Read We Have No Idea, by Jorge Cham and Daniel Whiteson! You can find the link in for the book in <a href="https://octaviustheking.github.io/Smartypants-Books/">Smartypants Books</a></p>
         <h2>The Domains of Life</h2>
         <p>By Octavius Szeto</p>
         <p>Scientists say that in order to be considered alive, something must be able to do the following 4 things.</p>
